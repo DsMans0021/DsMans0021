@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=timeAuto&fontColor=timeAuto&text=Hi%20there%20👋,%20I'm%20DsMans0021%20😁&fontSize=40&fontAlignY=55)
 <!-- ![DsMans0021's github stats](https://github-readme-stats.vercel.app/api?username=DsMans0021&show_icons=true&include_all_commits=true&count_private=true&line_height=30) -->
 
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=008B8B&center=true&vCenter=true&width=500&lines=A+Full-Stack+Web+Developer;Machine+Learning+Specialist;Game+Developer;App+Developer;Data+Analyst" alt="Typing SVG" />
 </div>
 <div align="center">
