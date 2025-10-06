@@ -13,5 +13,5 @@
 
 <div align="center">
 
-| <a href="https://github.com/DsMans0021?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DsMans0021&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" /></a> | <a href="https://github.com/DsMans0021?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DsMans0021&show_icons=true&theme=transparent&hide_border=true&langs_count=10&layout=compact&hide=html&exclude_repo=personal-website" /></a> |
+| <a href="https://github.com/DsMans0021?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DsMans0021&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" /></a> | <a href="https://github.com/DsMans0021?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DsMans0021&show_icons=true&theme=transparent&hide_border=true&langs_count=10&layout=compact&exclude_repo=personal-website" /></a> |
 | ------------- | ------------- |
