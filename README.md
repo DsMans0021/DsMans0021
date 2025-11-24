@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=DsMans0021&color=00FF00&style=flat-square&label=Profile+Views" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/DsMans0021?style=flat-square&color=00FF00" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/DsMans0021?style=flat-square&color=00FF00" alt="GitHub stars" />
-  <img src="https://img.shields.io/badge/Hacker-Black%20Hat-000000?style=flat-square" alt="Hacker" />
+  <img src="https://img.shields.io/badge/Hacker-Gray%20Hat-808080?style=flat-square" alt="Gray Hat Hacker" />
   <img src="https://img.shields.io/badge/Gamer-Elite-FF0000?style=flat-square" alt="Gamer" />
 </div>
 
@@ -24,7 +24,7 @@
 
 🔥 **Passionate Game Developer & Cybersecurity Specialist** with a mission to create immersive gaming experiences and secure digital ecosystems. I blend creative game design with cutting-edge security practices to build robust, engaging applications that stand at the intersection of entertainment and security.
 
-🛡️ **Cybersecurity Expert**: Ethical hacking, penetration testing, network security analysis, and vulnerability assessment. I believe in building secure systems from the ground up.
+🛡️ **Gray Hat Hacker**: Ethical hacking with a twist - I explore the boundaries of security to find vulnerabilities before they're exploited. Penetration testing, network security analysis, and vulnerability assessment are my playgrounds.
 
 🎯 **Game Development Specialist**: Unity, Unreal Engine, custom game engines, and interactive experiences. From concept to deployment, I bring games to life.
 
@@ -89,7 +89,7 @@
 ## 🏆 Achievements & Certifications
 
 - 🎮 **Game Development Champion**: Multiple game jam wins and indie game releases
-- 🛡️ **Certified Ethical Hacker**: CEH certified with practical penetration testing experience
+- 🛡️ **Gray Hat Specialist**: Blurring the lines between ethical and exploration hacking with responsible disclosure practices
 - 🔐 **Security Researcher**: CVE submissions and security blog publications
 - 🏅 **CTF Player**: Regular participant in capture-the-flag competitions
 - 📚 **Open Source Contributor**: Active contributor to game dev and security tools
@@ -115,12 +115,10 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 8px;" /></a>
-  <a href="https://wa.me/your-number" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;" /></a>
-  <a href="mailto:your-email@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;" /></a>
-  <a href="https://discord.gg/your-discord" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Discord.svg" alt="Discord" width="40" height="40" style="margin: 0 8px;" /></a>
-  <a href="https://your-portfolio.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;" /></a>
-  <a href="https://twitter.com/your-twitter" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 8px;" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-abdelaziz-8a2113299" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 8px;" /></a>
+  <a href="https://wa.me/+201146823255" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;" /></a>
+  <a href="mailto:medozizo008@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;" /></a>
+  <a href="https://dsmans0021.me" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;" /></a>
 </p>
 
 ## 🐍 GitHub Contribution Snake
