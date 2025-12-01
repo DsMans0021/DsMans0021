@@ -138,3 +138,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+🎮🛡️;Let's+build+amazing+games+together!;Stay+secure+and+keep+hacking!+🔥" alt="Typing SVG" />
 </div>
+
+> _"Being nigga is normal thing."_  
+>  — DsMans0021 | Mohamed Abdelaziz
