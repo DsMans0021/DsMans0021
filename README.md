@@ -20,13 +20,38 @@
   <img src="https://img.shields.io/badge/Gamer-Elite-FF0000?style=flat-square" alt="Gamer" />
 </div>
 
+---
+
+### 🇪🇬 نشيد أسلمي يا مصر - أنا الفدا 🇪🇬
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=xguKn0utIkM" target="_blank">
+    <img src="https://img.youtube.com/vi/xguKn0utIkM/hqdefault.jpg" alt="أسلمي يا مصر" width="50%" style="border-radius: 15px; border: 2px solid #00FF00; box-shadow: 0 4px 15px rgba(0, 255, 0, 0.3); margin: 15px 0;" />
+  </a>
+  <p><i>🎧 اضغط على الصورة للاستماع إلى النشيد الأصلي</i></p>
+</div>
+
+---
+
 ## 🎮 About Me
 
-🔥 **Passionate Game Developer & Cybersecurity Specialist** with a mission to create immersive gaming experiences and secure digital ecosystems. I blend creative game design with cutting-edge security practices to build robust, engaging applications that stand at the intersection of entertainment and security.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔥 The Mission</h4>
+      <p>Passionate <b>Game Developer & Cybersecurity Specialist</b> with a mission to create immersive gaming experiences and secure digital ecosystems. I blend creative game design with cutting-edge security practices.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛡️ The Approach</h4>
+      <p><b>Gray Hat Hacker</b>: Ethical hacking with a twist - I explore the boundaries of security to find vulnerabilities before they're exploited. Penetration testing, network security analysis, and vulnerability assessment are my playgrounds.</p>
+    </td>
+  </tr>
+</table>
 
-🛡️ **Gray Hat Hacker**: Ethical hacking with a twist - I explore the boundaries of security to find vulnerabilities before they're exploited. Penetration testing, network security analysis, and vulnerability assessment are my playgrounds.
+## 🛠️ Tech Stack
 
-🎯 **Game Development Specialist**: Unity, Unreal Engine, custom game engines, and interactive experiences. From concept to deployment, I bring games to life.
+| 🎮 Game Development | 🛡️ Cybersecurity | 🚀 Full-Stack & AI |
+| :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" alt="C#"/> <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" width="40" alt="Unity"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" width="40" alt="Unreal"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" width="40" alt="Godot"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/> <img src="https://cdn.worldvectorlogo.com/logos/kali-linux.svg" width="40" alt="Kali"/> <img src="https://cdn.worldvectorlogo.com/logos/metasploit.svg" width="40" alt="Metasploit"/> <img src="https://cdn.worldvectorlogo.com/logos/burp-suite.svg" width="40" alt="Burp"/> <img src="https://cdn.worldvectorlogo.com/logos/wireshark.svg" width="40" alt="Wireshark"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React"/> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" alt="Next.js"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" alt="Node"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/> |
 
 ## 📊 GitHub Stats & Trophies
 
@@ -39,72 +64,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=DsMans0021&theme=merko&no-frame=true&margin-w=15&row=2&column=4" alt="DsMans0021's GitHub Trophies" />
 </p>
 
-## 🎮 Game Development Stack
+## 🏆 Achievements & Current Projects
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="48" height="48" style="margin: 4px;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="Unity" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" alt="OpenGL" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vulkan/vulkan-original.svg" alt="Vulkan" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="Godot" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="Three.js" width="48" height="48" style="margin: 4px;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/webgl.svg" alt="WebGL" width="48" height="48" style="margin: 4px;" />
-</p>
-
-## 🛡️ Cybersecurity Stack
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="48" height="48" style="margin: 4px;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/kali-linux.svg" alt="Kali Linux" width="48" height="48" style="margin: 4px;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/metasploit.svg" alt="Metasploit" width="48" height="48" style="margin: 4px;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/burp-suite.svg" alt="Burp Suite" width="48" height="48" style="margin: 4px;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/wireshark.svg" alt="Wireshark" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nmap.svg" alt="Nmap" width="48" height="48" style="margin: 4px;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/owasp.svg" alt="OWASP" width="48" height="48" style="margin: 4px;" />
-</p>
-
-## 🚀 Full-Stack & AI Technologies
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="48" height="48" style="margin: 4px;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="48" height="48" style="margin: 4px;" />
-</p>
-
-## 🏆 Achievements & Certifications
-
-- 🎮 **Game Development Champion**: Multiple game jam wins and indie game releases
-- 🛡️ **Gray Hat Specialist**: Blurring the lines between ethical and exploration hacking with responsible disclosure practices
-- 🔐 **Security Researcher**: CVE submissions and security blog publications
-- 🏅 **CTF Player**: Regular participant in capture-the-flag competitions
-- 📚 **Open Source Contributor**: Active contributor to game dev and security tools
-
-## 🎯 Current Projects
-
-### 🔥 Featured Game Projects
-- **Cyber Siege**: Multiplayer tactical shooter with integrated security mechanics
-- **Quantum Defense**: AI-driven cybersecurity simulation game
-- **Retro Hacker**: Terminal-based hacking adventure game
-
-### 🛡️ Security Tools
-- **GameGuard**: Anti-cheat system for multiplayer games
-- **NetShield**: Network security monitoring dashboard
-- **VulnScan**: Automated vulnerability scanner for web applications
+| 🎯 Current Projects | 🏅 Achievements & Certifications |
+| :--- | :--- |
+| **🔥 Cyber Siege**: Multiplayer tactical shooter with integrated security mechanics.<br><br>**🛡️ GameGuard**: Advanced anti-cheat system for multiplayer games.<br><br>**🔐 NetShield**: Real-time network security monitoring dashboard. | 🎮 **Game Dev Champion**: Multiple game jam wins.<br><br>🛡️ **Gray Hat Specialist**: Responsible disclosure practices.<br><br>🏅 **CTF Player**: Regular participant in global CTFs.<br><br>📚 **Open Source**: Active contributor to security tools. |
 
 ## 🌟 Top Languages
 
@@ -141,4 +105,3 @@
 
 > _"Science isn't about why, it's about why not"_  
 >  —The fictional CEO Cave Johnson in the video game Portal 2
-> 
